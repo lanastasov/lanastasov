@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href = "https://www.codewars.com/users/kanastasov/"><img src="https://www.codewars.com/users/lanastasov/badges/large?theme=light"/></a>
+<a href = "https://www.codewars.com/users/lanastasov/"><img src="https://www.codewars.com/users/lanastasov/badges/large?theme=light"/></a>
 
 <!--
 **lanastasov/lanastasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
