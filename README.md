@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://www.codewars.com/users/lanastasov/badges/large?theme=light"/>
+
 <!--
 **lanastasov/lanastasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
