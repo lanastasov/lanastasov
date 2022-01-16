@@ -6,11 +6,21 @@
 
 - 📫 Email: **lubomir.anastasov@gmail.com**.
 
-- 🔭 I am currently learning **React**.
+- 🔭 I am currently mastering **MERN**.
 
 - 🌳 Cotact me: **https://www.linkedin.com/in/lyubomir-anastasov-aa513864/**.
 
-- 👨‍🎓 Looking for a Job as a **Fullstack Developer**.
+- 👨‍🎓 Looking for a Job as a **React/Fullstack Developer**.
+
+# Projects
+  ## React
+ 
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=Ecommerce-Eshop-MERN&hide_border=true&theme=dark)](https://github.com/lanastasov/Ecommerce-Eshop-MERN) 
+  
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=React-Electronics-Store&hide_border=true&theme=dark)](https://github.com/lanastasov/React-Electronics-Store)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=React-Web-Store&hide_border=true&theme=dark)](https://github.com/lanastasov/https://github.com/lanastasov/React-Web-Store)
+  
+  <br />
 
 <h1 align="center"> Codewars Profile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href = "https://www.codewars.com/users/lanastasov/"><img src="https://www.codewars.com/users/lanastasov/badges/large?theme=light"/></a> </h1>
 
@@ -24,11 +34,5 @@
   </p>
   <br/>
  
-# Projects
-  ## React
- 
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=React-Electronics-Store&hide_border=true&theme=dark)](https://github.com/lanastasov/React-Electronics-Store)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=React-Web-Store&hide_border=true&theme=dark)](https://github.com/lanastasov/https://github.com/lanastasov/React-Web-Store)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=Ecommerce-Eshop-MERN&hide_border=true&theme=dark)](https://github.com/lanastasov/Ecommerce-Eshop-MERN)
-  <br />
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
