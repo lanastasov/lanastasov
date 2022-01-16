@@ -10,7 +10,7 @@
 
 - 🌳 Cotact me: **https://www.linkedin.com/in/lyubomir-anastasov-aa513864/**.
 
-- 👨‍🎓 Analysis and design of **E-commerce**.
+- 👨‍🎓 Looking for a Job as a **Fullstack Developer**.
 
 <h1 align="center"> Codewars Profile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href = "https://www.codewars.com/users/lanastasov/"><img src="https://www.codewars.com/users/lanastasov/badges/large?theme=light"/></a> </h1>
 
