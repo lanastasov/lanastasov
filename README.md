@@ -26,8 +26,9 @@
  
 # Projects
   ## React
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=Ecommerce-Eshop-MERN&hide_border=true&theme=dark)](https://github.com/lanastasov/Ecommerce-Eshop-MERN)
+ 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=React-Electronics-Store&hide_border=true&theme=dark)](https://github.com/lanastasov/React-Electronics-Store)
   [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=React-Web-Store&hide_border=true&theme=dark)](https://github.com/lanastasov/https://github.com/lanastasov/React-Web-Store)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=Ecommerce-Eshop-MERN&hide_border=true&theme=dark)](https://github.com/lanastasov/Ecommerce-Eshop-MERN)
   <br />
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
