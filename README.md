@@ -18,6 +18,7 @@
   [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=Ecommerce-Eshop-MERN&hide_border=true&theme=dark)](https://github.com/lanastasov/Ecommerce-Eshop-MERN)
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=bulgarian-honey&hide_border=true&theme=dark)](https://github.com/lanastasov/bulgarian-honey) 
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=mosh-mastering-react&hide_border=true&theme=dark)](https://github.com/lanastasov/mosh-mastering-react) 
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=React-Electronics-Store&hide_border=true&theme=dark)](https://github.com/lanastasov/React-Electronics-Store)
   [![](https://github-readme-stats.vercel.app/api/pin/?username=lanastasov&repo=React-Web-Store&hide_border=true&theme=dark)](https://github.com/lanastasov/React-Web-Store)
