@@ -37,5 +37,6 @@
   </p>
   <br/>
  
-
+<h1 align="center">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</h1>
