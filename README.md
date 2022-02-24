@@ -10,8 +10,6 @@
 
 - 🌳 Cotact me: **https://www.linkedin.com/in/lyubomir-anastasov-aa513864/**.
 
-- 👨‍🎓 Looking for a Job as a **React/Fullstack Developer**.
-
 # Projects
   ## React
  
