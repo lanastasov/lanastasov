@@ -6,7 +6,7 @@
 
 - 📫 Email: **lubomir.anastasov@gmail.com**.
 
-- 🔭 I am currently mastering **FE**.
+- 🔭 I am currently mastering **ML**.
 
 - 🌳 Cotact me: **https://www.linkedin.com/in/lyubomir-anastasov-aa513864/**.
 
